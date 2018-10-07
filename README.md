@@ -9,5 +9,8 @@ We will be needing an application in which we can do the following things:
 1. Maintain Volunteer attendance
 2. Maintain Student attendance
 3. Session record sheet for volunteers
+5. Use google Api and pin point schools
+6. Display past achievements
+
 
 >#Code4Cause
