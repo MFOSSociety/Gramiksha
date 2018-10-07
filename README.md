@@ -11,6 +11,8 @@ We will be needing an application in which we can do the following things:
 3. Session record sheet for volunteers
 5. Use google Api and pin point schools
 6. Display past achievements
-
+7. Maintain assesment marks and record(Graph)
+8. Maintain student information
+9. Increase interaction with other cities
 
 >#Code4Cause
