@@ -13,9 +13,9 @@ We will be needing an application in which we can do the following things:
 | 1   | Maintain Volunteer Attendance               | PHASE 1 |
 | 2   | Maintain Student Attendance                 | PHASE 1 |
 | 3   | Session Record Sheet for Volunteers         | PHASE 1 |
-| 4   | Use Google API and Pin-Point Schools        | PHASE 2 |
-| 5   | Display past Achievements                   | PHASE 2 |
-| 6   | Maintain assesment marks and record (Graph) | PHASE 2 |
+| 4   | Use Google API & Pin-Point Schools        | PHASE 2 |
+| 5   | Display Past Achievements                   | PHASE 2 |
+| 6   | Maintain Assessment Marks and Record _(Graph)_ | PHASE 2 |
 | 7   | Maintain Student Information                | PHASE 3 |
 | 8   | Increase Interaction with Other Cities      | PHASE 3 |
 
