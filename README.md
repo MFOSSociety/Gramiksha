@@ -6,8 +6,8 @@ Gramiksha is a non-profit organisation registered under M.P. Society Act, 1973. 
 As our volunteers go in different schools to teach, it becomes very difficult for us to keep track of the attendance of volunteers, students on paper, assesment marks, maintain the session record sheet,etc.
 We will be needing an application in which we can do the following things:
 
-1.Maintain Volunteer attendance
-2.Maintain Student attendance
-3.Session record sheet for volunteers
+1. Maintain Volunteer attendance
+2. Maintain Student attendance
+3. Session record sheet for volunteers
 
 >Code4Cause
